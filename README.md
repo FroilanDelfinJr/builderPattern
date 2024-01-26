@@ -25,4 +25,4 @@ Implement solution using the Builder Pattern to address the issue.
 
 ## UML Class Diagram
 
-![DELFIN_2BSCS1_ASSIGNMENT2 - Page 2](https://github.com/FroilanDelfinJr/builderPattern/assets/142400742/10c764ca-7125-4f21-afaf-5b834c8e177e)
+![Builder Pattern UML](https://github.com/FroilanDelfinJr/builderPattern/assets/142400742/6325e93d-e59a-48ea-ae6f-da21111f7097)
